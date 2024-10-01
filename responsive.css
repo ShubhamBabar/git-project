@@ -1,0 +1,3626 @@
+* {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    -webkit-tap-highlight-color: transparent
+}
+@media only screen and (min-width: 768px) and (max-width: 1900px) {
+    .responsivemenu {
+        display: none !important
+   }
+}
+@media only screen and (min-width: 1600px){
+    #ScrollFixAdv > div div:nth-child(2) {
+        font-size: 40px;
+        line-height: 60px;
+   }
+    .staticsBlock span {
+        font-size: 2vw;
+        line-height: 3vw;
+   }
+}
+@media only screen and (min-width: 1600px){
+    .ImageTextRow .textBlock h2 {
+       font-size: 42px;
+        line-height: 50px;
+   }
+}
+@media only screen and (min-width: 0px) and (max-width: 1200px) {
+    .landingBanner .container > div:nth-child(1) {
+        padding-right: 20px;
+   }
+    .textoffer > div:first-child {
+        font-size: 50px;
+        line-height: 55px;
+   }
+    .ctrWrapper {
+        padding: 30px 20px;
+   }
+    .textoffer > div:nth-child(2) {
+        font-size: 16px;
+        line-height: 20px;
+   }
+    .AssembleSection::before {
+        top: -17%;
+   }
+    body.AssemblePc #wrapper {
+        padding-bottom: 180px;
+   }
+}
+@media only screen and (min-width: 0px) and (max-width: 1180px) {
+    ul.twoCol li, .majorIssues ul.tick li {
+        width: 49%
+   }
+    .BrandSection ul.twoCol li {
+        width: 33.33%;
+   }
+    .AMCTableTitle table td, .AMCTable td {
+        height: 42px;
+        line-height: 15px;
+   }
+    .AMCTableTitle {
+        width: 220px;
+   }
+    .h1 {
+        font-size: 3.5vw;
+        line-height: 1;
+   }
+}
+@media only screen and (min-width: 768px) and (max-width: 1140px) {
+    .ratioBlock_padding h3 {
+        font-size: 20px;
+   }
+}
+@media only screen and (min-width: 0px) and (max-width: 1100px) {
+    #statistics h2 {
+        font-size: 2.5vw;
+        line-height: 3.5vw;
+   }
+    .talkto .callaction {
+        font-size: 18px;
+        line-height: 22px;
+        padding: 15px 10px;
+   }
+    .ctrWrapper .titleWrap h2 {
+        font-size: 2.8vw;
+        line-height: 4vw;
+   }
+    .MainService .col_1_1 .col:nth-child(1){
+        width: 50%
+   }
+    .MainService .col_1_1 .col:nth-child(2){
+        width: 50%;
+   }
+    #ScrollFixAdv > div div:nth-child(2) {
+        font-size: 3.2vw;
+        line-height: 4vw;
+   }
+    #ScrollFixAdv > div div:nth-child(2) span:nth-child(3) {
+        font-size: 22px;
+        line-height: 40px;
+   }
+    .navigation ul li {
+        font-size: 16px;
+        padding: 0px 10px;
+   }
+    .bannerCaption > div h3 {
+        font-size: 30px;
+        line-height: 36px;
+   }
+    .bannerCaption > div h2 {
+        font-size: 40px;
+        line-height: 48px;
+   }
+    .Offer365 {
+        font-size: 16px;
+        line-height: 24px;
+   }
+    .landingAddPage h1 {
+        font-size: 26px;
+        line-height: 30px;
+   }
+    .landingAddPage h2 {
+        font-size: 24px;
+        line-height:28px;
+   }
+    .landingAddPage h4 {
+        font-size: 20px;
+        line-height: 24px;
+   }
+    .landingAddPage .ctabtn {
+        font-size: 20px;
+        line-height: 30px;
+   }
+    .customerReview .col_1_1_1 > div {
+        width: 100%;
+        margin-bottom: 30px;
+   }
+}
+@media only screen and (min-width: 0px) and (max-width: 1050px) {
+    .ourServices a {
+        font-size: 2.5vw;
+        line-height: 3vw;
+   }
+    .CampaignSection h1 {
+        font-size: 36px;
+        line-height: 42px;
+        margin-bottom: 15px;
+   }
+    .CampaignSection .talkto{
+        padding: 15px 0px;
+   }
+    .CampaignSection .col:nth-child(1) {
+        width: 60%;
+   }
+    .CampaignSection .col:nth-child(2) {
+        width: 40%;
+   }
+}
+@media only screen and (min-width: 0px) and (max-width: 1024px) {
+    .home .bannerText h2 {
+        font-size: 36px;
+        line-height: 42px;
+        margin-bottom: 0px;
+   }
+    #WAButton {
+        display: block;
+        margin-bottom: 20px;
+   }
+    .ratioBlockImage {
+        margin: 0px auto 5px auto;
+        float: none;
+   }
+    .ratioBlock_padding h3 {
+        font-size: 22px;
+   }
+    .col_1_1_1_1 .col {
+        width: 25%;
+   }
+    .TestiBlock {
+        width: 50%;
+   }
+    .computerslot > div:first-child {
+        width: 50%;
+   }
+    .computerslot > div.computerImage {
+        width: 50%;
+   }
+    .computerImage img {
+        max-width: 220px;
+   }
+    .computerImage > div {
+        display: block;
+   }
+    .AssembleSection::before {
+        top: -14%;
+   }
+    body.AssemblePc #wrapper {
+        padding-bottom: 160px;
+   }
+}
+@media only screen and (min-width: 630px) and (max-width: 1024px) {
+    .offerContent {
+        padding-top: 13%;
+        width: 65%;
+   }
+    .textoffer {
+        display: block;
+   }
+    .serviceLeft {
+        width: 55%;
+   }
+    .serviceRight {
+        width: 45%;
+   }
+    .textoffer > div:nth-child(2), .textoffer > div:last-child {
+        font-size: 14px;
+        line-height: 18px;
+        padding-top: 0px;
+   }
+    .offerContent > span {
+        padding-left: 0px;
+   }
+    .textoffer > div:first-child {
+        font-size: 40px;
+        line-height: 45px;
+   }
+    .textoffer > div:first-child, .textoffer > div:nth-child(2) {
+        width: 100%;
+   }
+    .ContactBlock .col > div p {
+        font-size: 18px;
+   }
+    .ContactBlock .col {
+        font-size: 20px;
+   }
+}
+@media only screen and (min-width: 0px) and (max-width: 1023px) {
+    .resphide {
+        display: none;
+   }
+    .deskhide {
+        color: #fff;
+   }
+    .desktopBtn {
+        background: #00abe0;
+        -webkit-box-shadow: 2px 2px 12px 0px rgba(0, 0, 0, 0.50);
+        -moz-box-shadow: 2px 2px 12px 0px rgba(0, 0, 0, 0.50);
+        box-shadow: 2px 2px 12px 0px rgba(0, 0, 0, 0.50);
+        font-weight: 500;
+        text-align: center;
+        color: #fff;
+        padding: 5px 20px;
+        display: inline-block;
+        margin-bottom: 5px
+   }
+    .icontext {
+        display: block;
+   }
+    .contactinfo {
+        padding-left: 0px;
+   }
+    .CusomerAttention > div > div:last-child svg {
+        height: 70px;
+        width: 70px;
+        margin-right: 10px;
+        margin-bottom: 10px;
+        display: block;
+   }
+    .CusomerAttention > div > div:first-child {
+        width: 100%;
+        padding-right: 0;
+   }
+    .CusomerAttention > div > div:last-child {
+        width: 100%;
+   }
+    .serviceRow.nobg {
+        padding: 15px 15px;
+   }
+    .serviceRow .titleWrap {
+        padding: 0px 5px;
+   }
+    .serviceRow.nobg .content_1180 {
+        max-width: 100%;
+        padding: 0px;
+   }
+    .ReviewsTestimonials .col:nth-child(1) {
+        width: 40%;
+   }
+    .ReviewsTestimonials .col:nth-child(2) {
+        width: 60%;
+   }
+    .QualityFeedback .col:nth-child(1) {
+        width: 55%;
+   }
+    .QualityFeedback .col:nth-child(2) {
+        width: 45%;
+   }
+    .TestiHeading img{
+        max-width: 100%;
+        height: auto;
+   }
+    .ReviewsTestimonials .TestiHeading h3 span:nth-child(1) {
+        font-size: 30px;
+        line-height: 35px;
+   }
+    .ReviewsTestimonials .TestiHeading h3 span:nth-child(2) {
+        font-size: 13px;
+        line-height: 14px;
+   }
+    .CusomerAttention > div > div:last-child::before {
+        right: -20%;
+        transform: skewX(-9deg);
+   }
+    .offerLeft {
+        width: 30%;
+   }
+    .offerList, .OffersWrapper .offercontent {
+        width: 100%;
+        padding-right: 0px;
+   }
+    .OffersWrapper .offerList .col_1_1_1 .col {
+        margin: 1px;
+        width: calc(50% - 2px);
+   }
+    .ReviewsTestimonials .col h2, , .QualityFeedback .col h2{
+        font-size: 28px;
+        line-height: 32px;
+   }
+    .offerList {
+        padding-left: 0px;
+   }
+    .offerList .col_1_1_1 .col {
+        width: 49.5%;
+   }
+    .offerList .imageBlock span{
+        font-size: 16px;
+   }
+}
+@media only screen and (min-width: 0px) and (max-width: 990px) {
+    .logo {
+        width: 250px;
+        background-size: 250px auto
+   }
+}
+@media only screen and (min-width: 0px) and (max-width: 950px) {
+    .HeroBanner .HeroText h1 {
+        font-size: 3.5vw;
+        line-height: 4.5vw;
+        padding-bottom: 20px;
+   }
+    .HeroBanner .startingPrice div span:nth-child(2) {
+        font-size: 5.5vw;
+        line-height: 7.5vw;
+   }
+    .HeroBanner .HeroText h3 {
+        font-size: 2.5vw;
+        line-height: 3.5vw;
+   }
+    .ourServices,.HeroBanner .startingPrice {
+        width: 100%;
+   }
+    .landingBanner .startingPrice div span:nth-child(2) {
+        font-size: 50px;
+        line-height: 55px;
+   }
+    .landingBanner .startingPrice > div:nth-child(2) {
+        padding-left: 20px;
+   }
+    .landingBanner .startingPrice div {
+        max-width: 260px;
+   }
+    .landingBanner .container > div:nth-child(1) {
+        padding-right: 20px;
+   }
+    .footerFixBtn{
+       display: flex;
+   }
+}
+@media only screen and (min-width: 0px) and (max-width: 896px) {
+    .contactpage .col_1_1 .col:nth-child(1) {
+        padding-top: 20px;
+   }
+    .contactpage .col_1_1 .col:nth-child(1), .contactpage .col_1_1 .col:nth-child(2) {
+        width: 100%;
+        padding: 15px;
+   }
+    .contactpage .col_1_1 .col:nth-child(2) div{
+       width: 50%;
+   }
+    .JobList .jobPost {
+        width: 50%;
+   }
+    .callaction span:nth-child(1) {
+       display: inline-block;
+   }
+    .callaction span:nth-child(2) {
+       display: none;
+   }
+}
+@media only screen and (min-width: 0px) and (max-width: 960px) {
+    .OfferSlider .slick-arrow {
+        position: absolute;
+        top: 50%;
+        margin-top: 0px;
+        background: rgb(69 171 0 / 50%);
+   }
+    .OfferSlider .slick-arrow.slick-next::before{
+       margin-right: 10px;
+   }
+    .OfferSlider .slick-arrow.slick-prev {
+       left: 60px;
+        display: none !important;
+        border-radius: 50% 0% 0% 50%
+   }
+    .OfferSlider .slick-arrow.slick-next {
+       right: 60px;
+        width: 40px;
+        border-radius: 50% 0% 0% 50%
+   }
+}
+@media only screen and (min-width: 850px) and (max-width: 949px) {
+    .LeftSideContent .BookLandingWrapper > div, .LeftSide .BookLandingWrapper > div {
+        display: block;
+   }
+    .LeftSideContent .BookLandingWrapper > div > div, .LeftSide .BookLandingWrapper > div > div {
+        width: 100%;
+   }
+}
+@media screen and (min-width: 850px) and (max-width: 950px) {
+    .bookFormWrapper .card-body .cardblock {
+        width: 100%;
+        padding: 20px 10px 10px 10px;
+   }
+    .sellingPoint {
+        position: relative;
+        bottom: 0px;
+        left: 0px;
+   }
+    .productnamePrice{
+        display: block;
+   }
+    .productnamePrice > div:first-child, .productnamePrice > div:last-child, .productnamePrice > div:last-child > div {
+       width: 100%;
+        padding-left: 0px;
+   }
+}
+@media only screen and (min-width: 0px) and (max-width: 950px) {
+    #bannerholder img {
+        left: 0%;
+   }
+    #bannerholder.services .bannerText {
+        width: 70%;
+   }
+    #bannerholder .banner {
+        min-height:auto;
+   }
+    #statistics h2 {
+        font-size: 24px;
+        line-height: 30px;
+   }
+    .BookLandingWrapper > div > div h3 {
+        font-size: 22px;
+        line-height: 28px;
+   }
+    .callaction {
+        font-size: 18px;
+        line-height: 22px;
+   }
+    .BookLandingWrapper > div > div:first-child > div {
+       display: block;
+   }
+    .LeftSideContent .BookLandingWrapper .callaction {
+        padding: 10px 20px;
+   }
+    .offerList .col_1_1_1 .col{
+        width: 32.5%;
+   }
+    .offerSlide .imageBlock, .offerSlide .offerTextBlock {
+        width: 100%;
+   }
+    .offerList .col > div h4 {
+        font-size: 18px;
+        line-height: 22px;
+   }
+    .offerSlide .offerTextBlock h6 {
+        font-size: 14px;
+        line-height: 18px;
+   }
+    .offerList .col > div p {
+        font-size: 14px;
+        line-height: 17px;
+   }
+    .PromotionalOffer h2 {
+        font-size: 30px;
+        line-height: 36px;
+   }
+   .PromotionalOffer h6 span img{
+       width: 35px;
+   }
+    .CTA {
+        font-size: 26px;
+        line-height: 30px;
+   }
+    .PromotionalOffer h2 {
+        font-size: 26px;
+        line-height: 30px;
+   }
+    .staticsBlock > div {
+        font-size: 16px;
+        line-height: 20px;
+   }
+    .TwoColTextRow.reverse .col.imageBlock img{
+        max-width: 100% !important;
+   }
+    .MainService .col_1_1 .col:nth-child(1), .MainService .col_1_1 .col:nth-child(2) {
+        padding: 20px 0px 20px 0px;
+        width: 100%;
+   }
+    .MainService .serviceswrapper > div:nth-child(1) {
+        width: 66.66%;
+        display: flex;
+        padding-bottom: 0px;
+   }
+    .MainService .serviceswrapper > div:nth-child(1) .serviceBlock {
+        width: 50%;
+        padding-top: 0px;
+   }
+    .MainService .serviceswrapper > div:nth-child(2) {
+        width: 33.33%;
+   }
+    .ReviewsTestimonials .TestiBlock, .QualityFeedback .TestiBlock {
+        width: 50%;
+   }
+    .ReviewsTestimonials .col:nth-child(1), .ReviewsTestimonials .col:nth-child(2), .QualityFeedback .col:nth-child(2), .QualityFeedback .col:nth-child(1){
+        width: 100%;
+   }
+    .QualityFeedback .col:nth-child(2) {
+        border: 0px;
+        padding-left: 0px;
+   }
+    .planBlock {
+        width: 50%;
+   }
+    .serviceholder {
+        position: relative;
+        top: 40px;
+        left: 0px;
+        width: 100%;
+        max-width: 100%;
+        text-align: center
+   }
+    #bannerholder .serviceholder {
+        top: 0px;
+   }
+    #bannerholder.services {
+        margin-bottom: 60px !important
+   }
+    #bannerholder.services .serviceholder {
+        top: 30px;
+   }
+    #bannerholder.services .bannerText p {
+        font-size: 16px;
+   }
+    #bannerholder.services .bannerText {
+        top: 12%;
+   }
+    #bannerholder {
+        margin-bottom: 0px !important
+   }
+    #bannerholder img {
+        max-width: 45%;
+   }
+    .serviceholder a {
+        display: inline-block;
+        padding: 7px 5px;
+        margin: 2px 0px 2px 0px;
+        font-size: 18px;
+        color: #fff;
+        width: 32.5%
+   }
+    #bannerholder.home .banner {
+        background-size: cover;
+        background-position: center right;
+        margin-bottom: 30px
+   }
+    #bannerholder.home .banner {
+        margin-bottom: 0px !important;
+   }
+    #bannerholder.home .banner {
+        background-size: 130% auto;
+   }
+    #bannerholder.assPcbanner {
+        margin-bottom: 0px !important;
+   }
+    .bannerText.abouttext {
+        right: auto;
+        left: 0px;
+        width: 60%;
+        top: 20%
+   }
+    .abouttext .bannerInnerText {
+        display: block
+   }
+    .banner {
+        padding: 0px
+   }
+    .bannerplaceholder {
+        height: 280px
+   }
+    .offertext, .promiseblock, .lowprice, .promiseText {
+        display: inline-block;
+        vertical-align: middle;
+        width: 30%;
+        margin: 5px 0px
+   }
+    .promiseText {
+        width: 97%;
+        font-size: 24px
+   }
+    .spacer {
+        width: 5%;
+        display: inline-block
+   }
+    .navigation ul li {
+        font-size: 14px;
+        padding: 0px 5px;
+   }
+    .serviceblock {
+        width: 49.7%
+   }
+    .CusomerAttention > div{
+        display: block;
+   }
+    .CusomerAttention > div > div:first-child, .CusomerAttention > div > div:last-child {
+        width: 100%;
+        padding: 0px;
+   }
+    .CusomerAttention > div > div:last-child {
+        padding-top: 0px;
+        -webkit-box-pack: center;
+        -webkit-justify-content: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+   }
+    .CusomerAttention > div > div:last-child::before {
+        right: -20px;
+        transform: skew(0deg, 5deg);
+        top: 20px;
+   }
+    .CusomerAttention > div > div:last-child h2 {
+        font-size: 24px;
+        line-height: 30px;
+   }
+    .CusomerAttention > div > div:last-child > div{
+       /* display: flex;
+        */
+   }
+    .contactinfo {
+        padding-left: 80px;
+   }
+    .icontext {
+        display: flex;
+   }
+}
+@media only screen and (min-width:0px) and (max-width:768px) {
+    .offerHighlight > div > div:nth-child(2) {
+        width: 40%;
+        padding-right: 0;
+        padding-left: 20px
+   }
+    .offerHighlight > div > div:nth-child(1) {
+        width: 60%;
+        padding-right: 0px;
+   }
+    .offerHighlight > div > div:nth-child(1) img {
+        margin-right: 5px;
+        margin-left: -10px;
+        margin-top: -15px;
+        width: 70px;
+   }
+    .offerHighlight > div > div:nth-child(1) > div {
+        width: calc(100% - 70px);
+   }
+    .offerHighlight > div > div:nth-child(1) h4 {
+        font-size: 3.6vw;
+        line-height: 4.3vw;
+   }
+    .offerHighlight > div > div:nth-child(1) span {
+       display: block;
+   }
+    .offerHighlight > div {
+        padding: 15px 20px;
+   }
+    .offerHighlight > div > div:nth-child(2) > div {
+       font-size: 3vw;
+        line-height: 3.5vw;
+   }
+    .offerHighlight > div > div:nth-child(2) > div b {
+       font-size: 4vw;
+       line-height: 4.5vw;
+   }
+}
+@media only screen and (min-width: 0px) and (max-height: 750px) {
+    .assPcbanner {
+        height: 65vh;
+   }
+}
+@media only screen and (min-width: 0px) and (max-width: 1150px) {
+    .Stars {
+        font-size: 1.7vw;
+   }
+   .connectUsWrapper .container-full > div:nth-child(2)
+   {
+     margin: 30px auto;
+
+   }
+   .connectUsWrapper .container-full{
+     flex-direction: column;
+   }
+   .connectUsWrapper .container-full > div{width: 100% !important}
+   .connectUsWrapper .container-full > div:nth-child(2)
+   {
+     margin-top: 20px;
+     margin-bottom: 0px;
+   }
+}
+@media only screen and (min-width: 0px) and (max-width: 950px) {
+  .SRBlock{display: flex; flex-direction: column; align-items: center;}
+    .landingProduct .col_1_1_1_1 .col{
+        width: 50%;
+   }
+    ul.feedbacklist li {
+        width: 50%;
+   }
+    .QualityFeedback .col:nth-child(2)::before {
+        display: none;
+   }
+    #AMCbanner .InnerWrapper {
+        display: block;
+   }
+    #AMCbanner .InnerWrapper > div {
+        margin: 0 auto;
+        text-align: center;
+   }
+    .AmcBannerText {
+        width: 100%;
+   }
+    .bannerImage {
+        width: 100%;
+        max-width: 320px;
+   }
+    .AmcBannerText h2 {
+        font-size: 34px;
+        line-height: 40px;
+   }
+    .SRBlock img {
+        float: none;
+        display: block;
+        margin: 0px 20px 10px 20px;
+   }
+}
+@media only screen and (min-width: 800px) and (max-width: 950px) {
+    .bannerText, .home .bannerText {
+        width: 50%
+   }
+}
+@media only screen and (min-width: 0px) and (max-width: 900px) {
+    .offerList .col > div h6 {
+        display: block;
+   }
+    .price-wrap {
+        padding-left: 0px !important
+   }
+    .header-right {
+        width: 68%
+   }
+    .logo {
+        width: 240px;
+        background-size: 240px auto
+   }
+    .offerFormWrapper .discoutoffer, .offerFormWrapper .formwrapper {
+        width: 100%;
+   }
+    .offerFormWrapper .discoutoffer {
+        padding-right: 0px;
+        margin-bottom: 20px;
+   }
+    .discoutoffer .responsive {
+        display: none;
+   }
+    .discoutoffer .desktop {
+        display: block;
+   }
+    .ratioBlock_padding h3 {
+        font-size: 20px;
+   }
+    .ratioBlock_padding h2 {
+        font-size: 32px;
+        line-height: 40px;
+   }
+    .col_1_1_1_1_1 .col {
+        margin: 10px 0px;
+        width: 33.33%;
+   }
+    .col_1_1_1_1_1 .col:nth-child(4) {
+        border-left: 0px;
+   }
+}
+@media only screen and (min-width: 0px) and (max-width: 850px) {
+    .CampaignSection {
+        padding: 50px 0px 50px 0px;
+   }
+    .CampaignSection h1 {
+        font-size: 30px;
+        line-height: 36px;
+   }
+    .CampaignSection h2 {
+        font-size: 18px;
+        line-height: 24px;
+   }
+    .ctrWrapper .titleWrap h2, .ctrWrapper .titleWrap {
+        margin-bottom: 0px;
+        padding-top: 0px;
+   }
+    .ctrWrapper .centerBlock {
+        display: block;
+   }
+    .ctrWrapper .centerBlock > .col {
+       padding: 0px;
+   }
+    .ctrWrapper .centerBlock > .col:nth-child(1), .ctrWrapper .centerBlock > .col:nth-child(2) {
+        width: 100%;
+   }
+    .FixedSidebar h3 {
+        margin-bottom: 10px;
+   }
+    .CommanBanner h2 {
+        font-size: 28px;
+        line-height: 34px;
+   }
+    .CommanBanner h3 {
+        font-size: 24px;
+        line-height: 30px;
+   }
+    #ScrollFixAdv > div div:nth-child(2) {
+        width: 55%;
+   }
+    #ScrollFixAdv > div div:nth-child(1) {
+       /* width: 35%;
+        */
+        font-size: 28px;
+        line-height: 35px;
+        text-align: right;
+        padding-right: 5%;
+   }
+    #ScrollFixAdv > div div:nth-child(2) {
+        font-size: 34px;
+        line-height: 40px;
+        padding-left: 5%;
+   }
+    #ScrollFixAdv > div div:nth-child(2) span:nth-child(1) {
+        font-size: 24px;
+        line-height: 35px;
+   }
+    #ScrollFixAdv > div div:nth-child(2) span:nth-child(3) {
+        font-size: 22px;
+        line-height: 35px;
+   }
+    .UsersPhoto {
+        width: 60px;
+        min-width: 60px;
+   }
+    .UsersPhoto img {
+        max-width: 60px;
+        max-height: 60px;
+   }
+    .serviceholder a {
+        font-size: 17px;
+        padding: 7px 10px
+   }
+    .header-right {
+        width: 68%
+   }
+   /* .staticsBlock span {
+        font-size: 30px;
+        line-height: 34px;
+   }
+    */
+    .promo_right {
+        font-size: 22px;
+        line-height: 30px;
+   }
+    .staticsBlock {
+        font-size: 15px;
+        line-height: 18px;
+   }
+}
+@media only screen and (min-width: 0px) and (max-width: 849px) {
+    #ProductPageWrapper .PageContent {
+        padding-bottom: 0px;
+        margin-bottom: 0px;
+   }
+    #content-wrapper{
+        overflow: visible;
+   }
+    .LeftSideContent .Importanthighligh{
+        margin-bottom: 30px;
+   }
+    #visitReponsiveappend {
+        display: block;
+        margin-top: 20px;
+        margin-bottom: 30px;
+        border: 1px solid #ccc;
+        padding: 10px;
+   }
+}
+@media only screen and (min-width: 0px) and (max-width: 830px) {
+    .header-right {
+        width: 70%
+   }
+    .logo {
+        width: 205px;
+        background-size: 205px auto
+   }
+}
+@media only screen and (min-width: 0px) and (max-width: 812px) {
+    @media all and (orientation: portrait) {
+        .offerSlide{
+           display: block !important;
+       }
+        .offerSlide .imageBlock{
+           width: 100%;
+            padding: 0px;
+       }
+        .offerSlide .offerTextBlock{
+           width: 100%;
+            display: flex;
+            padding: 10px;
+       }
+   }
+}
+@media only screen and (min-width: 0px) and (max-width: 800px) {
+    .bannerplaceholder {
+        height: 240px
+   }
+    .bannerText, .home .bannerText {
+        width: 50%
+   }
+    .home .bannerText h2 {
+        margin-bottom: 0px;
+   }
+    .home .bannerInnerText .greenhighlight {
+        margin-top: 10px;
+        font-size: 20px;
+        line-height: 24px;
+   }
+}
+@media only screen and (min-width: 767px) and (max-width: 950px) {
+    .serviceBlocks .imgBlock{
+        padding: 5px;
+        width: 50%;
+   }
+    .landingBanner .landingstatistic{
+        display: block;
+   }
+    .landingBanner .landingstatistic .Block {
+        width: 100%;
+        border-right: 0px;
+        border-bottom: 1px solid #ccc;
+   }
+}
+@media all and (min-width: 0px) and (max-width: 767px) {
+   /* .HeroBanner {
+        width: calc(100% + 40px);
+        margin-left: -20px;
+   }
+    */
+    .twoCardsWrap{margin: 0px auto; padding-top: 10px}
+    .twoCardsWrap.comparision{
+      margin-top: 30px;
+      margin-bottom: 5px
+    }
+    .twoCardsWrap .container-full{flex-direction: column;}
+    .twoCardsWrap .container-full > div{width: 100% !important; }
+   .twoCardsWrap .container-full .bigCard > div
+    {left: 0;width: 100% !important; padding: 20px}
+    .twoCardsWrap .container-full .smallCard{
+      margin: 10px 0 30px 0px;
+      padding: 20px
+    }
+    .features-wrapper .container-full{padding: 0px}
+    .landingProduct .col_1_1_1 .col h4, .tag {
+       font-size: 14px;
+        line-height: 18px;
+   }
+    .CenterBorderText > div {
+        font-size: 20px;
+        line-height: 24px;
+   }
+    .CenterBorderText > div .icons img{
+        width: 60px;
+        height: 60px;
+   }
+    .CenterBorderText > div .icons > div{
+        font-size: 11px;
+        line-height: 14px;
+        padding: 0px 5px;
+   }
+    .landingProduct .col_1_1_1 .col{
+       width: 50%;
+   }
+    .landingAddPage .col_1_1 .col:nth-child(1), .landingAddPage .col_1_1 .col:nth-child(2) {
+        width: 100%;
+       /* text-align: center;
+        */
+   }
+    .landingAddPage .col_1_1 .col:nth-child(1) .startingPrice {
+        width: 100%;
+       /* justify-content: center;
+        */
+   }
+   /* .landingAddPage h1 {
+        font-size: 5vw;
+        line-height: 5.5vw;
+   }
+    .landingAddPage h2 {
+        font-size: 3.5vw;
+        line-height: 4vw;
+   }
+    */
+    .landingAddPage .ctabtn {
+        font-size: 4vw;
+        line-height: 5vw;
+   }
+   /* .landingAddPage h4 {
+        font-size: 4vw;
+        line-height: 4.5vw;
+   }
+    */
+    .HeroBanner .HeroImage {
+       top: 25%;
+   }
+    .Stars {
+        font-size:3.5vw;
+   }
+    .HeroBanner .startingPrice > div:nth-child(1) {
+        margin-right: 15px;
+        min-width: 35%;
+   }
+    .HeroBanner .startingPrice > div:nth-child(2) {
+        padding: 15px 0px 15px 5%;
+   }
+    .landingBanner .container {
+        display: block;
+   }
+    .landingBanner .container > div {
+        width: 100%;
+        display: flex;
+        flex-flow: row wrap;
+   }
+    .landingBanner .startingPrice {
+       justify-content: center;
+        width: 100%;
+        margin: 20px auto 0 auto;
+   }
+    .landingBanner .container > div:nth-child(1) {
+       display: flex;
+       justify-content: center;
+        align-items: center;
+        flex-flow: row wrap;
+        padding-bottom: 0px;
+   }
+    .landingBanner .container > div.ImageText {
+       padding-top: 20px;
+   }
+    .landingBanner .reviewsblock, .landingAddPage .reviewsblock {
+        max-width: 100%;
+   }
+    .landingBanner .ProductofferList {
+        margin: 10px 0;
+   }
+    .landingBanner .container > div > svg {
+        width: 55%;
+        margin: 0px;
+   }
+    .landingBanner .landingstatistic{
+        display: flex;
+        width: 45%;
+        flex-direction: column;
+        align-items: center;
+        padding: 0px 0 0px 5%;
+   }
+    .landingBanner .landingstatistic .Block {
+       width: 100%;
+        padding: 10px 0px;
+        margin: 0px;
+        border-right: 0px;
+        border-bottom: 1px solid #ccc;
+   }
+    .ctrWrapper .titleWrap h2{
+        font-size: 4vw;
+        line-height: 5vw;
+   }
+    .HeroBanner .HeroImage::before {
+        width: 100%;
+        padding-top: 100%;
+   }
+    .serviceBlocks .imgBlock{
+        padding: 5px;
+        width: 50%;
+   }
+    .LightBlueWrapper {
+        padding: 0px 20px;
+   }
+    .toggleWrap.expanded .orangehighlight span {
+        font-size: 16px;
+        line-height: 22px;
+   }
+    .textCenterBlock, .ReviewsTestimonials, .MainService, .QualityFeedback {
+        padding: 30px 20px;
+   }
+    .ctrWrapper .centerBlock > .col:nth-child(1) h2, .OffersWrapper .offercontent h2, .offerList .col > div h4 {
+        font-size: 4vw;
+        line-height: 5vw;
+   }
+    .offerList .col_1_1_1 .col::before {
+        padding-top: 70%;
+   }
+    .offerSlide .offerTextBlock h6 b {
+        font-size: 20px;
+        line-height: 26px;
+   }
+    .ImageTextRow {
+        align-items: center;
+   }
+    .ImageTextRow .imageBlock {
+        width: 30%;
+        padding-top: 0px;
+        bottom: 7vw;
+   }
+    .ImageTextRow .textBlock {
+        width: 100%;
+        padding: 20px 10px 20px 20px;
+        font-size: 3.5vw;
+        line-height: 3.8vw;
+   }
+    .ImageTextRow .textBlock > div{
+        padding-left: 30%;
+   }
+    .flex img {
+        margin-right: 7px;
+        width: 7vw;
+   }
+    .ImageTextRow .textBlock h2 {
+        font-size: 5vw;
+        line-height: 5.3vw;
+        padding-bottom: 4vw;
+   }
+    .flex {
+        align-items: flex-start;
+        font-size: 3vw;
+        line-height: 4vw;
+   }
+    .flex a {
+        align-items: flex-start;
+        font-size: 4vw;
+        line-height: 5vw;
+   }
+    .pageContact #wrapper {
+        padding: 20px 15px;
+   }
+    .contactpage .col_1_1, .contactpage .col_1_1.carrerHighlight, .contactpage .grayhighlight {
+        margin-left: 0px;
+        margin-right: 0px;
+        width: 100%;
+   }
+    .shopAddress .col img {
+        vertical-align: middle;
+        width: 25px;
+        margin-right: 10px;
+   }
+    .shopAddress .col > div {
+       padding: 10px 10px 50px 10px;
+   }
+    .bannerText h2 {
+        font-size: 28px;
+        line-height: 32px;
+   }
+    #statistics h2 br{
+        display: none;
+   }
+    .BookLandingWrapper > div, .BookLandingWrapper > div > div:last-child > div, .BookLandingWrapper > div > div:first-child > div {
+        display: block;
+   }
+    .BookLandingWrapper > div > div {
+        width: 100%;
+        padding: 10px;
+   }
+    .StatisticRow {
+        display: flex !important;
+   }
+    #statistics div.Blockwrapper {
+        padding-left: 0px;
+   }
+    ul.deviceProblem .form-check {
+        padding: 2px 2px;
+        height: 100%;
+   }
+    .bookFormWrapper .deviceProblem [type="radio"]:checked + label, .bookFormWrapper .deviceProblem [type="radio"]:not(:checked) + label {
+        padding: 5px;
+        font-size: 14px;
+        line-height: 18px;
+        height: 100%;
+   }
+    .CTA {
+        font-size: 3vw;
+        line-height: 3vw;
+   }
+    .PromotionalOffer h2 {
+        font-size: 3.5vw;
+        line-height: 4vw;
+   }
+    .exclusiveDeal h4 {
+        font-size: 2.5vw;
+        line-height: 3vw;
+   }
+    .exclusiveDeal .button {
+        font-size: 2.7vw;
+        line-height: 3.2vw;
+   }
+    .PromotionalOffer {
+        font-size: 14px;
+        line-height: 18px;
+        padding: 10px;
+        margin: 15px auto;
+   }
+    .exclusiveDeal .button{
+       width: auto;
+   }
+    .PromotionalOffer h6 span img {
+        width: 4vw;
+   }
+    .PromotionalOffer h6 > img {
+        margin-right: 2%;
+        max-width: 20vw;
+   }
+    .exclusiveDeal {
+        padding: 10px 20px 10px 20px !important;
+   }
+    .ReviewsTestimonials .col h2, .QualityFeedback .col h2 {
+        font-size: 28px;
+        line-height: 34px;
+   }
+    .CommanBanner {
+        padding: 0px 15px;
+   }
+    .BannerText, .BannerImage {
+        width: 100%;
+        padding-left: 0px;
+   }
+    .BannerText{
+        padding-bottom: 20px;
+   }
+    .aboutpage .BannerText{
+        padding-bottom: 0px;
+   }
+    .TwoColTextRow .col.imageBlock img{
+        width: 60vw !important;
+        margin: 0 auto;
+        display: block;
+   }
+    .AMCPlanWrapper {
+        padding: 0px 15px;
+   }
+    .TwoColTextRow .col {
+        padding: 0px !important;
+        width: 100%;
+   }
+    .TwoColTextRow .col:nth-child(1)::after {
+        display: none;
+   }
+    .halfdevideLine + #content-wrapper {
+        padding-top: 0px;
+   }
+    .MainService .col_1_1 .col:nth-child(2) {
+        display: none;
+   }
+    .CusomerAttention .col_1_1 .col:nth-child(1) {
+        width: 100%;
+        padding: 20px 0px 0px 0px
+   }
+    .CusomerAttention .col_1_1 .col:nth-child(2) {
+        width: 100%;
+        padding-left: 0px;
+   }
+    .staticsBlock span {
+        font-size: 3.5vw;
+        line-height: 4.5vw;
+   }
+    .staticsBlock {
+        font-size: 20px;
+        line-height: 26px;
+   }
+    .offerStaticsWrap > img {
+        width: 40%;
+   }
+    #statistics div.Blockwrapper {
+        width: 100%;
+   }
+    .staticsBlock {
+        width: 50%;
+   }
+    #ScrollFixAdv > div div:nth-child(1) {
+        font-size: 3vw;
+        line-height: 4vw;
+   }
+    #ScrollFixAdv > div div:nth-child(2) {
+        font-size: 3.8vw;
+        line-height: 5vw;
+   }
+    #ScrollFixAdv > div div:nth-child(2) span:nth-child(1) {
+        font-size: 3vw;
+        line-height: 4vw;
+   }
+    #ScrollFixAdv > div div:nth-child(2) span:nth-child(3) {
+        font-size: 2.5vw;
+        line-height: 4vw;
+   }
+    .assPcbanner .bannerText h2 {
+        font-size: 40px;
+        line-height: 40px;
+   }
+    .home .bannerText h2 {
+        font-size: 28px;
+        line-height: 32px;
+   }
+    .home .bannerText h3 {
+        font-size: 22px;
+        line-height: 26px;
+   }
+    .home .bannerText p {
+        font-size: 16px;
+   }
+    .bannerCaptionHolder {
+        padding: 40px 0px;
+   }
+    .bannerCaption {
+        text-align: center;
+   }
+    .bannerCaption > div:first-child {
+        width: 100%;
+        max-width: 100%;
+        float: none;
+        margin-bottom: 30px;
+   }
+    .bannerCaption .rightinfo {
+        width: 50%;
+        max-width: 100%;
+        display: inline-block;
+        margin: 0 auto;
+        float: none;
+   }
+    #statistics h2 {
+        font-size: 24px;
+        line-height: 28px;
+   }
+    .navigation {
+        display: none
+   }
+    .logo {
+        width: 210px;
+        background-size: 210px auto
+   }
+    .promiseblock img {
+        max-height: 160px
+   }
+    iframe {
+        width: 100%
+   }
+    .top-animate {
+        background: #fff !important;
+        top: 13px !important;
+        -webkit-transform: rotate(45deg);
+        transform: rotate(45deg)
+   }
+    .mid-animate {
+        opacity: 0
+   }
+    .bottom-animate {
+        background: #fff !important;
+        top: 13px !important;
+        -webkit-transform: rotate(-225deg);
+        transform: rotate(-225deg)
+   }
+    .top-menu {
+        top: 5px;
+        width: 25px;
+        height: 2px;
+        border-radius: 10px;
+        background-color: #fff
+   }
+    .mid-menu {
+        top: 13px;
+        width: 25px;
+        height: 2px;
+        border-radius: 10px;
+        background-color: #fff
+   }
+    .bottom-menu {
+        top: 21px;
+        width: 25px;
+        height: 2px;
+        border-radius: 10px;
+        background-color: #fff
+   }
+    .menui {
+        background: #000;
+        transition: 0.6s ease;
+        transition-timing-function: cubic-bezier(.75, 0, .29, 1.01);
+        margin-top: 10px;
+        position: absolute
+   }
+    .icon {
+        z-index: 999;
+        position: fixed;
+        display: block;
+        padding: 9px;
+        height: 32px;
+        width: 32px;
+        margin: 0px;
+        top: 15px;
+        right: 20px
+   }
+    .mobilemenu {
+        display: none;
+        top: 0px;
+        left: 0px;
+        position: absolute
+   }
+    .navigation {
+        font-family: inherit;
+        top: 0;
+        right: 0;
+        z-index: 99;
+        display: none;
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        background: url(../images/transparent-bg.png) repeat;
+        padding: 0;
+        margin: 0
+   }
+    .navigation > ul {
+        font-family: inherit;
+        top: 0;
+        right: 0;
+        z-index: 999;
+        position: fixed;
+        width: 260px;
+        height: 100%;
+        background: #00abe0;
+        padding: 0;
+        margin: 0;
+        overflow: auto;
+   }
+    .navigation > ul > li {
+        list-style-type: none;
+        text-align: left;
+        position: relative;
+        padding: 5px 10px 5px 20px;
+        display: block;
+   }
+    .navigation > ul > li > a {
+        color: #fff;
+        text-decoration: none;
+       /* width: 100%;
+        */
+        font-size: 18px;
+        padding: 5px 0px;
+        display: inline-block;
+   }
+    .navigation > ul > li:first-child {
+        margin-top: 40px
+   }
+    .navigation ul li ul.submenu {
+        display: none;
+        margin: 0px;
+        list-style: none;
+        padding: 0px 5px 0px 5px
+   }
+    .navigation ul li ul.submenu li {
+        padding: 10px 0px;
+   }
+    .navigation ul li ul.submenu li a {
+        padding: 5px 15px;
+        font-size: 16px;
+        color: #fff;
+   }
+    .navigation ul li ul.submenu li:last-child {
+        padding-bottom: 0px;
+   }
+    .navigation ul li .showmenu {
+        display: inline-block;
+        margin-left: 20px;
+        width: 20px;
+        height: 20px;
+        position: relative;
+        top: 5px;
+        cursor: pointer;
+        background: url(../images/expand.png) no-repeat center
+   }
+    .navigation ul li .showmenu.active {
+        background: url(../images/collapse.png) no-repeat center
+   }
+    .logo {
+        height: 80px
+   }
+    #header {
+        position: fixed;
+        z-index: 99;
+        top: 0px
+   }
+    .banner {
+        padding: 0px
+   }
+    .assPcbanner .banner {
+        align-items: flex-end;
+        padding-bottom: 40px;
+   }
+    .bannerText, .home .bannerText {
+        width: 51%
+   }
+    #bannerholder {
+        margin: 100px auto 0px auto !important
+   }
+    #bannerholder.home .banner {
+        margin-bottom: 0px !important;
+   }
+    #landingbannerholder {
+        margin: 100px auto 0px auto !important
+   }
+    .contentpadding {
+        margin: 100px auto 0px auto !important
+   }
+    .termscondition {
+        margin: 100px auto 0px auto
+   }
+    .header-contact {
+        padding: 0px 0px 15px 0px
+   }
+    .header-right {
+        padding: 20px 0 0;
+        width: 60%
+   }
+    .btn {
+        display: block;
+        padding: 10px 50px 10px 0
+   }
+    .how-works ul li {
+        width: 50%;
+        margin-bottom: 15px;
+        display: inline-block;
+        float: left;
+        vertical-align: top
+   }
+    .arrow {
+        display: none
+   }
+    .welcome-right {
+        width: 100%
+   }
+    .formleft {
+        width: 100%;
+        float: left
+   }
+    .formright {
+        width: 100%;
+        float: right
+   }
+    .registerfrm input[type=text], .registerfrm input[type=email], .registerfrm textarea, .registerfrm select {
+        width: 100%
+   }
+    #right-side, #contact-left, #left-side {
+        width: 100%;
+        border: 0px;
+        padding: 0px 0px 20px 0px;
+        float: none;
+        overflow: hidden
+   }
+    .hide {
+        display: none
+   }
+    #left-side {
+        text-align: left
+   }
+    .promise-block .promise-icon {
+        width: 30%
+   }
+    .contactpage #contact-left {
+        border-right: 0px dashed #b1e9ff;
+        border-top: 1px dashed #b1e9ff;
+        padding: 20px 0px 0px 0px;
+        width: 100%
+   }
+    .offerFormWrapper {
+        margin: 0px auto;
+   }
+    .ratioBlock_padding h3 {
+        font-size: 20px;
+   }
+    .ratioBlock_padding h2 {
+        font-size: 30px;
+        line-height: 36px;
+   }
+    .ratioBlock_padding {
+        padding: 10px 15px;
+   }
+    .BrandSection ul.twoCol li {
+        width: 50%;
+   }
+    .BrandSection ul {
+        padding: 20px 5px 10px 5px;
+   }
+    .bransectiontitle .highlightQuestion {
+        margin-bottom: 10px;
+   }
+    .BrandSection {
+        margin-bottom: 30px;
+   }
+    .col_1_1_1_1 .col {
+        width: 33.33%;
+   }
+    .col_1_1_1_1 .col a img {
+        max-width: 120px;
+        max-height: 100px;
+   }
+    .serviceswrapper {
+        display: none;
+   }
+    .services-section .row .col {
+        width: 50%;
+   }
+    .bottomSection .col_1_1_1 .col h2 {
+        font-size: 20px;
+   }
+    .bottomSection .col_1_1_1 .col:nth-child(2) {
+        border-left: 0px solid #ccc;
+        border-right: 0px solid #ccc;
+   }
+    .PageIntro .col_1_1_1 {
+        width: 104%;
+   }
+    .PageIntro .col_1_1_1 .col, .shopAddress .col {
+        width: 50%;
+   }
+    .twocolWrap {
+        display: block;
+   }
+    .serviceLeft {
+        width: 100%;
+        padding: 0px;
+   }
+    .serviceRight {
+        width: 100%;
+        text-align: center;
+       /* padding: 0px;
+        */
+   }
+    .Assurebox > div > div {
+        width: 50%;
+        border: 5px solid #fff;
+   }
+    .ContactBlockText, .serviceRight hr {
+        display: none;
+   }
+    .Offer365 {
+        font-size: 15px;
+        line-height: 20px;
+   }
+    .OverlayContent > div:first-child {
+        width: 45%;
+   }
+    .Offer365 h2 {
+        font-size: 4vw;
+   }
+    .AmcBannerText h4 {
+        font-size: 16px;
+        line-height: 26px;
+   }
+    .FreeAds h2 {
+        font-size: 4vw;
+        line-height: 4vw;
+   }
+    .CTABtn {
+        font-size: 3.5vw;
+        line-height: 3.5vw;
+   }
+    .FreeAds::before{
+        margin-top: -130px;
+        width: 150px;
+        height: 150px;
+        left: -20px;
+   }
+    .FreeAds::after {
+        width: 50px;
+        height: 50px;
+        bottom: -25px;
+   }
+    .accordianPannel .col_1_1 .col {
+        width: 100%;
+        padding: 0px;
+   }
+    .accordianPannel .col_1_1 .col:first-child .accordianRow:last-of-type {
+       border-bottom: 0px;
+   }
+    .offerLeft {
+        width: 100%;
+        position: relative !important;
+   }
+    .offerList {
+        width: 100%;
+   }
+    .offerLeft > div > div {
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: center;
+        -webkit-align-items: center;
+        -ms-flex-align: center;
+        -webkit-box-align: flex-start;
+        -webkit-align-items: flex-start;
+        -ms-flex-align: flex-start;
+        align-items: flex-start;
+        -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        flex-flow: row wrap;
+        padding-bottom: 20px;
+   }
+    .offerLeft hr{
+        width: 10vw;
+   }
+    .offerLeft h2 {
+        font-size: 24px;
+        line-height: 34px;
+   }
+   /* .offercontent {
+        width: 50%;
+   }
+    */
+    .offerImage {
+        width: 50%;
+        text-align: center;
+        padding-right: 10px;
+       /* border-left: 1px solid #fff;
+        */
+        margin-top: 0px;
+   }
+    .offerLeft h3 {
+        font-size: 14px;
+        line-height: 20px;
+   }
+    .offerLeft h2 br{
+        display: none;
+   }
+    .amcpage .TextImageRow .textBlock, .amcpage .TextImageRow .BannerText {
+        width: 100%;
+        padding-right: 0px;
+        padding-bottom: 20px;
+   }
+    .amcpage .TextImageRow.reverse > div .textBlock {
+        padding-right: 0px;
+       padding-left: 0px
+   }
+    .amcpage .TextImageRow .imageBlock, .amcpage .TextImageRow .BannerImage {
+        width: 100%
+   }
+    .amcpage .TextImageRow .BannerImage {
+        margin-top: 10px;
+   }
+    .amcpage .TextImageRow > div{
+       display: block;
+   }
+    .amcpage .TextImageRow .textBlock h2, .amcpage .TextImageRow .BannerText h2 {
+        font-size: 24px;
+        line-height: 28px;
+        font-weight: 700;
+        padding-bottom: 15px;
+   }
+    .amcpage .TextImageRow .BannerText h3 {
+        font-size: 18px;
+        line-height: 22px;
+        padding-bottom: 10px;
+   }
+    .amcpage .TextImageRow .BannerText h6 {
+        font-size: 14px;
+        line-height:18px;
+        padding-bottom: 10px;
+   }
+    .amcpage .TwoColTextRow > div {
+       display: block;
+   }
+    .amcpage .TwoColTextRow {
+        padding: 30px 20px !important;
+   }
+    .amcpage .TextImageRow, .amcpage .PageIntro, .amcpage .TwoColTextRow, .amcpage .TCWrap {
+       padding: 30px 20px;
+   }
+    .amcpage .PageIntro .col_1_1_1 .col li:nth-child(1) {
+        font-size: 24px;
+        line-height: 28px;
+   }
+    .amcpage .PageIntro .col_1_1_1 .col {
+        padding: 10px 10px;
+   }
+    .hero-wrapper{
+       flex-direction: column;
+   }
+    .hero-content-box{
+       width: 100%;
+       padding-right: 0;
+       z-index: 1;
+   }
+    .hero-img-box{
+       margin: 0 auto;
+        width: 100%;
+        max-width: 400px;
+
+   }
+      .amcpage  .hero-img-box{
+        margin-top: -10%
+      }
+
+             .amcpage .amcBanner{
+               padding-bottom: 0px;
+               background-color: rgba(234, 255, 208, .0);
+             }
+    .features-wrapper{
+        padding: 40px 20px;
+   }
+    .features-leftbox {
+        width: 100%;
+   }
+    .features-rightbox {
+        width: 100%;
+        max-width: 400px;
+        margin: 20px auto 0 auto;
+   }
+    .features-wrapper .h2{
+        margin-bottom: 0px;
+   }
+    .h2{
+        font-size: 26px;
+        line-height: 30px;
+   }
+}
+@media only screen and (min-width: 950px) and (max-width: 1200px) {
+    .productnamePrice{
+        display: block;
+   }
+    .productnamePrice > div:first-child, .productnamePrice > div:last-child, .productnamePrice > div:last-child > div {
+       width: 100%;
+        padding-left: 0px;
+   }
+}
+@media only screen and (min-width: 650px) and (max-width: 850px) {
+    .productnamePrice{
+        display: block;
+   }
+    .productnamePrice > div:first-child, .productnamePrice > div:last-child, .productnamePrice > div:last-child > div {
+       width: 100%;
+        padding-left: 0px;
+   }
+}
+@media only screen and (min-width: 630px) and (max-width: 767px) {
+    .serviceRight {
+        display: flex;
+        background-color: transparent;
+   }
+    .ContactBlock .col {
+        padding: 5px 10px;
+        font-size: 16px;
+        line-height: 18px;
+   }
+    .ContactBlock .col > div p {
+        font-size: 15px;
+   }
+    .ContactBlock .col img{
+        max-width: 50px;
+   }
+    .offerBlock {
+        width: 60%;
+   }
+    .ContactBlock {
+        width: 40%;
+        padding-top: 30px;
+   }
+    .AssembleSection::before {
+        top: -10%;
+   }
+    body.AssemblePc #wrapper {
+        padding-bottom: 140px;
+   }
+}
+@media only screen and (min-width: 0px) and (max-width: 700px) {
+    .TestiHeading h2, .TestiHeading h3 {
+        font-size: 18px;
+        line-height: 22px;
+   }
+    .bannerText {
+        width: 48%
+   }
+    .home .bannerText {
+        width: 50%
+   }
+    .serviceImage {
+        float: none;
+        margin: 0px auto 15px auto
+   }
+    .staticsBlock {
+        font-size: 18px;
+        padding: 10px;
+   }
+    .blocks_padding h3, .service-text {
+        text-align: center
+   }
+    .bannerplaceholder {
+        height: 215px
+   }
+    .bannerText h2 {
+        font-size: 24px;
+        line-height: 28px;
+        padding-bottom: 10px
+   }
+    .bannerText h2 span {
+        font-size: 28px
+   }
+    .bannerText h3 {
+        font-size: 26px;
+        padding-bottom: 5px
+   }
+    .home .bannerText h2 {
+        margin-bottom: 10px;
+   }
+    .staticsBlock {
+        padding: 10px;
+       /* transform: skewX(0deg);
+        */
+       /* width: 33.33%;
+        */
+   }
+    .staticsBlock span, .staticsBlock > div{
+       /* transform: skewX(0deg);
+        */
+   }
+   /* .staticsBlock span {
+        font-size: 32px;
+        line-height: 38px;
+   }
+    */
+}
+@media only screen and (min-width: 0px) and (max-width: 650px) {
+    .CampaignSection .col_1_1{
+        position: relative;
+   }
+    .CampaignSection .col:nth-child(1) {
+        width: 100%;
+   }
+    .CampaignSection .col:nth-child(2) {
+        width: 35%;
+        position: absolute;
+        right: 0px;
+        bottom: 20%;
+   }
+    .CampaignSection .talkto > div {
+        padding-top: 20px;
+        padding-right: 10px;
+        border-right: 1px solid #000;
+        margin-right: 10px;
+   }
+    .campaignProduct > div {
+        width: 33.33%;
+   }
+    .CampaignSection .talkto {
+        padding: 15px 37% 15px 0px;
+        display: block;
+   }
+    .HeroBanner .HeroText h1{
+        font-size: 5vw;
+        line-height: 6vw;
+        padding-bottom: 15px;
+   }
+    .landingBanner h1 {
+        font-size: 6vw;
+        line-height: 6.5vw;
+        padding-bottom: 0px;
+   }
+    .landingBanner .startingPrice div {
+        max-width: 100%;
+        width: auto;
+        padding-right: 10px;
+   }
+    .landingBanner .reviewsblock, .landingAddPage .reviewsblock {
+        margin-top: 20px;
+   }
+    .HeroBanner .HeroText h3, .landingBanner h4 {
+        font-size: 4.5vw;
+        line-height: 5.5vw;
+   }
+    .HeroBanner .HeroText {
+        font-size: 16px;
+        line-height: 20px;
+        width: 100%;
+        padding-right: 0px;
+   }
+    .HeroBanner .HeroImage {
+        width: 100%;
+        top: 0;
+        transform: none;
+        position: relative;
+   }
+    .HeroBanner .HeroImage::before {
+        width: 55%;
+        padding-top: 55%;
+        right: -55vw;
+   }
+    .HeroBanner .HeroImage img {
+       max-width: 100%;
+        margin: 0 auto;
+        display: block;
+   }
+    .LeftSideContent h1 {
+        display: block;
+        margin-bottom: 20px
+   }
+    .sectionHeading span:nth-child(2){
+        padding-left: 0px;
+        padding-top: 5px;
+        border: 0px;
+        margin-left: 0px;
+   }
+    label {
+        margin-bottom: 10px;
+   }
+    .carrerHighlight .LeftText {
+        width: 100%;
+   }
+    .carrerHighlight .RightText {
+        width: 100%;
+        padding-left: 5px;
+        padding-top: 15px;
+   }
+    #content-wrapper h1 + h3 {
+        font-size: 16px;
+        line-height: 20px;
+   }
+    .BannerText, .BannerImage {
+        width: 100%;
+        padding-left: 0px;
+   }
+    .offerList .col_1_1_1 .col {
+        width:49.2%;
+   }
+    .bottomSection .col_1_1_1 {
+        display: block;
+   }
+    .bottomSection .col_1_1_1 .col {
+        width: 100%;
+   }
+    .bottomSection .col_1_1_1 .col h2 {
+        font-size: 22px;
+        width: 100%
+   }
+    .bannerText {
+        width: 51%
+   }
+    .home .bannerText {
+        width: 55%
+   }
+    .CusomerAttention > div > div:last-child h2{
+        font-size: 20px;
+        line-height: 30px;
+   }
+    .CusomerAttention > div > div:last-child svg {
+        height: 60px;
+        width: 60px;
+   }
+    .CusomerAttention > div > div:last-child h2 span {
+        font-size: 30px;
+        line-height: 34px;
+   }
+    .serviceholder a {
+        padding: 10px 5px;
+        font-size: 16px
+   }
+    .serviceblock {
+        width: 49.3%
+   }
+    .offertext, .promiseblock, .lowprice, .promiseText {
+        display: inline-block;
+        vertical-align: middle;
+        width: 37%;
+        margin: 5px 0px
+   }
+    .customePromise {
+        max-width: 190px;
+        min-width: 190px;
+        display: block;
+        margin: 0px auto 0 auto;
+   }
+    .promiseText {
+        width: 57%;
+        font-size: 21px
+   }
+    .promo_right {
+        display: block;
+        text-align: center;
+        padding: 20px 20px 0px 20px;
+        width: 100%;
+   }
+    .spacer {
+        width: 1%;
+        display: inline-block
+   }
+    .feature_promo p {
+        display: none
+   }
+    ul.twoCol li, .majorIssues ul.tick li {
+        width: 100%
+   }
+    .offerFormWrapper .discoutoffer {
+        width: 100%;
+        padding: 0px;
+   }
+    .offerFormWrapper .formwrapper {
+        width: 100%;
+   }
+    .centerAddress {
+        display: block;
+   }
+    .centerAddress li {
+        width: 100%;
+   }
+    .paymentAccepted .formobile {
+        display: block;
+   }
+    .paymentAccepted .fordesktop {
+        display: none;
+   }
+    .bookFormWrapper .card-body .cardblock {
+        width: 100%;
+        padding: 20px 10px 10px 10px;
+   }
+    .bookFormWrapper .card-body .problemtitleprice{
+       width: 100%
+   }
+    .bookFormWrapper .problemtitleprice [type="radio"]:not(:checked) + label, .bookFormWrapper .problemtitleprice [type="radio"]:checked + label{
+       padding: 0px;
+   }
+    .sellingPoint {
+        position: relative;
+        bottom: auto;
+        left: auto;
+        margin-top: 10px;
+   }
+}
+@media only screen and (min-width: 0px) and (max-width: 640px) {
+    #progressbar li {
+        font-size: 10px;
+        line-height: 15px;
+   }
+    .ReviewsTestimonials .col h2, .QualityFeedback .col h2 {
+        font-size: 24px;
+        line-height: 30px;
+   }
+    .PageIntro {
+        padding: 30px 15px;
+   }
+    .computerslot > div.computerImage {
+        padding: 20px 0px;
+   }
+    .computerImage .commanbtn {
+        padding: 14px 8px;
+        min-width: 160px;
+        font-size: 24px;
+        margin-bottom: 30px;
+   }
+    .copyright {
+        width: 56%
+   }
+    .spec-block {
+        width: 48%;
+        margin-bottom: 20px
+   }
+    .hideresp {
+        display: none
+   }
+    .bannerplaceholder {
+        height: 200px
+   }
+    .serviceDetails {
+        display: block;
+   }
+    .serviceAddress, .tollFreeblock {
+        width: 100%;
+        padding: 0px;
+   }
+    .tollFreeblock {
+        margin-top: 20px;
+        padding-top: 30px;
+   }
+    .tollFreeblock::before {
+        width: 100%;
+        height: 1px;
+        left: auto;
+   }
+    .AssembleSection::before {
+        top: -6%;
+   }
+    body.AssemblePc #wrapper {
+        padding-bottom: 100px;
+   }
+    .computerslot {
+        display: block !important;
+   }
+    .slick-slide > div {
+        padding: 0px 10px;
+   }
+    .offerList .slick-slide > div {
+        padding: 0px 0px;
+   }
+    .computerslot > div:first-child, .computerslot > div.computerImage {
+        width: 100%;
+   }
+    .BasicInfo {
+        height: auto !important;
+   }
+    .BasicInfo .PriceTag {
+        right: -6px;
+   }
+    .computerImage > div {
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        display: flex;
+   }
+}
+@media only screen and (min-width:0px) and (max-width:630px) {
+    .home .rightanimation {
+        padding-top: 95px;
+   }
+    .bannerimage img {
+        max-width: 200px;
+   }
+    .bannerStatistics .statics {
+        padding: 10px;
+   }
+}
+@media only screen and (min-width:0px) and (max-width:599px) {
+    .offerHighlight > div > div:nth-child(2) {
+        width: 35%;
+        padding-right: 0;
+        padding-left: 0
+   }
+    .offerHighlight > div > div:nth-child(1) {
+        width: 65%;
+        padding-right: 20px;
+   }
+    .offerHighlight > div > div:nth-child(1) img {
+        margin-right: 5px;
+        margin-left: -10px;
+        margin-top: -5px;
+        width: 50px;
+   }
+    .offerHighlight > div > div:nth-child(1) > div {
+        width: calc(100% - 50px);
+        font-size: 12px;
+        line-height: 16px;
+   }
+    .offerHighlight > div > div:nth-child(2) > div::after, .offerHighlight > div > div:nth-child(2) > div::before {
+       width: 40px;
+        height: 40px;
+   }
+    .offerHighlight > div > div:nth-child(2) > div {
+       padding: 15px 20px;
+   }
+    .offerHighlight > div > div:nth-child(1) h4 {
+        font-size: 3.4vw;
+        line-height: 4.3vw;
+   }
+    .offerHighlight > div {
+        padding: 8px 20px;
+   }
+    .offerHighlight > div > div:nth-child(2) > div {
+       font-size: 3vw;
+        line-height: 3.5vw;
+   }
+    .offerHighlight > div > div:nth-child(2) > div b {
+       font-size: 4vw;
+       line-height: 4.5vw;
+   }
+}
+@media only screen and (min-width: 0px) and (max-width: 600px) {
+  .connectUsWrapper .container-full > div:nth-child(2) ul{
+    flex-flow: row wrap;
+     justify-content: center;
+  }
+  .connectUsWrapper .container-full > div:nth-child(2) ul li{
+    width: 50%;
+
+  }
+  .connectUsWrapper .container-full > div:nth-child(2) ul li:nth-child(3){
+    margin-top: 10px;
+    width: 80%;
+  }
+    .AMCPlan h2 span:nth-child(2) {
+        font-size: 18px;
+        padding: 5px 0px
+   }
+    .PageIntro h1 {
+        font-size: 24px;
+        line-height: 30px;
+   }
+    .CommanBanner h2 {
+        font-size: 24px;
+        line-height: 30px;
+   }
+    .CommanBanner h3 {
+        font-size: 20px;
+        line-height: 26px;
+   }
+    .home .bannerText h2 {
+        margin-bottom: 5px;
+   }
+    .home .bannerInnerText .greenhighlight {
+        margin-top: 10px;
+        font-size: 14px;
+        line-height: 18px;
+        padding: 5px 10px;
+   }
+    .divider {
+        width: 1px;
+        height: 40px;
+        margin: 0px 10px 0px 10px;
+   }
+    .home .bannerText p:last-of-type {
+        margin-bottom: 0px;
+   }
+    .bannerCaption .rightinfo {
+        width: 70%;
+        max-width: 100%;
+   }
+    .home .bannerText {
+        width: 50%
+   }
+    .btn {
+        display: block;
+        padding: 10px 50px 10px 0
+   }
+    .email-detail {
+        display: none
+   }
+    .bannerText h2, .home .bannerText h2 {
+        font-size: 20px;
+        line-height: 24px
+   }
+    .bannerText h2 span {
+        font-size: 22px
+   }
+    .bannerText p, .home .bannerText p {
+        font-size: 14px;
+        line-height: 18px;
+        padding: 0px 0px 0px 0px
+   }
+    .bannerText h3, .home .bannerText h3 {
+        font-size: 20px;
+        padding-bottom: 0px
+   }
+    .bannerplaceholder {
+        height: 170px
+   }
+    .serviceholder a {
+        padding: 10px 5px;
+        font-size: 15px
+   }
+    .welcome-bottom {
+        display: block;
+        width: 100%;
+        overflow: auto
+   }
+    .promiseblock a {
+        font-size: 22px
+   }
+    .col_1_1_1_1 .col {
+        width: 50%;
+   }
+    .OverlayContent > div:first-child {
+        width: 100%;
+   }
+    .OverlayContent {
+        display: block;
+   }
+    .Offer365 h2 {
+        font-size: 7vw;
+        line-height: 7.5vw;
+   }
+    .Offer365 h3 {
+        font-size: 5vw;
+        line-height: 5.5vw;
+   }
+    .Offer365 {
+        font-size: 16px;
+        line-height: 24px;
+   }
+    .Offer365 h2 {
+        font-size: 26px;
+        line-height: 30px;
+   }
+    .Offer365 h3 {
+        font-size: 22px;
+        line-height: 26px;
+   }
+    .TestiHeading h3 br{
+        display: block;
+   }
+    .TestiHeading h2 img{
+        display: block;
+   }
+}
+@media only screen and (min-width: 0px) and (max-width: 568px) {
+    #bannerholder.services .bannerInnerText .hidetext {
+        display: none
+   }
+    .promiseblock img {
+        max-height: 140px
+   }
+    .bannerplaceholder {
+        height: 156px
+   }
+    .home .bannerplaceholder {
+        height: 180px
+   }
+    .staticsBlock {
+        width: 50%;
+   }
+    .staticsBlock span {
+        font-size: 5vw;
+        line-height: 6.5vw;
+   }
+    .staticsBlock:nth-child(5) {
+       /* width: 100%;
+        */
+   }
+    .staticsBlock:nth-child(3){
+        transform: skewX(0deg);
+   }
+    .staticsBlock:nth-child(3) span, .staticsBlock:nth-child(3) > div {
+        transform: skewX(0deg);
+   }
+    .staticsBlock:nth-child(5), .staticsBlock:nth-child(6){
+        transform: skewX(0deg);
+   }
+    .staticsBlock:nth-child(5) span, .staticsBlock:nth-child(5) > div, .staticsBlock:nth-child(6) span, .staticsBlock:nth-child(6) > div {
+        transform: skewX(0deg);
+   }
+   /* .staticsBlock span {
+        font-size: 36px;
+        line-height: 40px;
+   }
+    */
+    .serviceholder {
+        top: 44px;
+        font-size: 0px
+   }
+    .serviceholder a {
+        padding: 10px 5px;
+        font-size: 15px;
+        margin: 2px 1px 2px 1px;
+        width: 32.8%
+   }
+    .header-right {
+        width: 50%
+   }
+    .logo {
+        width: 220px;
+        background-size: 220px auto;
+        padding: 10px
+   }
+    .copyright {
+        width: 100%
+   }
+    .rightLogo {
+        text-align: center;
+        margin-bottom: 10px;
+   }
+    .promiseText {
+        font-size: 18px
+   }
+    .serviceswrapper h3 {
+        font-size: 18px
+   }
+    .ratioBlock {
+        width: 100%;
+   }
+    .ratioBlockImage {
+        margin: 0px 20px 0px 0px;
+        float: left;
+   }
+    .ratioBlock_padding h3 {
+        text-align: left;
+        font-size: 22px;
+        line-height: 30px;
+   }
+    .ratioBlock_padding h2 {
+        text-align: left;
+        font-size: 30px;
+        line-height: 38px;
+   }
+    .CusomerAttention > div > div:last-child > div {
+        display: block;
+   }
+    .contactinfo {
+        padding-left: 0px;
+   }
+}
+@media only screen and (min-width: 0px) and (max-width: 550px) {
+    .TrustedProcess ul li{
+        width: 100%;
+   }
+    .ReviewsTestimonials .TestiBlock {
+        width: 100%;
+   }
+    #ScrollFixAdv > div div:nth-child(2) small {
+        font-size: 8px;
+        line-height: 10px;
+        display: inherit;
+   }
+    #ScrollFixAdv > div div:nth-child(2) {
+        width: 65%;
+   }
+    #ScrollFixAdv > div div:nth-child(2) {
+        font-size: 4.5vw;
+        line-height: 5.5vw;
+   }
+    #ScrollFixAdv > div div:nth-child(1) {
+        width: 36%;
+   }
+    #ScrollFixAdv > div div:nth-child(2) span:nth-child(2) {
+        padding: 0px 2%;
+   }
+    #ScrollFixAdv > div div:nth-child(2) span:nth-child(1) {
+        font-size: 3.5vw;
+        line-height: 4.5vw;
+   }
+    #ScrollFixAdv > div div:nth-child(2) span:nth-child(3) {
+        font-size: 3vw;
+        line-height: 4.5vw;
+   }
+    .AMCBuyForm .ss-form-question, .AMCBuyForm .ss-form-question:nth-child(3) {
+        width: 100%;
+   }
+    .TestiBlock {
+        width: 100%;
+   }
+    .col_1_1_1_1_1 .col {
+        margin: 10px 0px;
+        width: 50%;
+   }
+    .col_1_1_1_1_1 .col:nth-child(4) {
+        border-left: 1px solid #ccc;
+   }
+    .col_1_1_1_1_1 .col:nth-child(3), .col_1_1_1_1_1 .col:nth-child(5) {
+        border-left: 0px;
+   }
+}
+@media only screen and (min-width: 0px) and (max-width: 500px) {
+    ul.feedbacklist li{
+        width: 100%;
+   }
+    .OffersWrapper .offercontent ul li {
+        padding-right:0px;
+        width: 50%;
+   }
+    .OffersWrapper .offercontent ul li:last-child {
+        width: 100%;
+   }
+    .offerList .col > div p {
+        min-height: auto;
+   }
+    .offerList .col > div img {
+        width: 100%;
+        max-width: none;
+   }
+    #bannerholder.home .banner {
+        background-size: 140%
+   }
+    .home .bannerText {
+        width: 54%
+   }
+    .promise-block:nth-child(even) .promise-icon, .promise-block:nth-child(odd) .promise-icon {
+        width: 35%;
+        float: none;
+        clear: both
+   }
+    .promise-main-icon {
+        display: none
+   }
+    .responsive-promise-icon {
+        max-width: 40%;
+        float: left;
+        margin-right: 20px;
+        display: inline-block;
+        margin-bottom: 20px
+   }
+    .SRBlock img {
+        float: left;
+        display: block;
+        margin: 4px 0px;
+        width: 50px;
+        height: 50px;
+   }
+    .services-section .row .col {
+        width: 100%;
+   }
+    .services-section {
+        padding: 50px 10px 10px 10px;
+   }
+    .services-section .row {
+       padding: 0px 10px
+   }
+    .offerLeft h2 {
+        font-size: 20px;
+        line-height: 30px;
+   }
+    .offerLeft > div ul {
+        margin-left: 10px;
+        font-size: 12px;
+        line-height: 18px;
+        padding-right: 5px;
+   }
+    .offerLeft h3 {
+        font-size: 12px;
+        line-height: 18px;
+        padding-left: 10px;
+   }
+}
+@media only screen and (min-width: 0px) and (max-width: 480px) {
+  .amcpromo{
+    flex-direction: column;
+    margin: 0 auto 20px 0;
+  }
+   .amcpromo .linedevide{
+     display: none;
+   }
+   .amcpromo .highlighttxt
+   {
+     min-width: 200px;
+     margin-bottom: 10px;
+   }
+  .valueWrapper .container ul li {
+   width: 100%;
+ }
+  .amcBanner{margin-top: 100px;}
+    .landingAddPage .col_1_1 .col:nth-child(2) {
+       padding-top: 10px;
+   }
+    .popularOffers, .popularOffers h4 {
+        padding: 0px;
+   }
+    .popularServiceSlider .slick-arrow.slick-next {
+        right: -20px;
+   }
+    .popularServiceSlider .slick-arrow.slick-prev {
+        left: -20px;
+   }
+    .landingAddPage .textimageBottom .col_1_1 {
+       display: block;
+       margin-bottom: 50px;
+   }
+    .textimageBottom .col_1_1 .TextBlock{
+        width: 100%;
+   }
+    .textimageBottom .col_1_1 .ImageBlock{
+        width: 100%;
+   }
+    .landingAddPage h1 {
+        font-size: 5vw;
+        line-height: 5.5vw;
+   }
+    .landingAddPage h2 {
+        font-size: 3.5vw;
+        line-height: 4vw;
+   }
+    .landingAddPage .ctabtn {
+        font-size: 4vw;
+        line-height: 5vw;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+   }
+    .landingAddPage .ctabtn a {
+        margin-left: 0px;
+        margin-top: 10px;
+   }
+    .landingAddPage h4 {
+        font-size: 4vw;
+        line-height: 4.5vw;
+   }
+    .landingAddPage header.shrink, .landingAddPage header {
+        height: 80px;
+   }
+    .landingAddPage h2 {
+        font-size: 5.2vw;
+        line-height: 6.5vw;
+   }
+    .landingAddPage .ctabtn {
+        font-size: 5.2vw;
+        line-height: 5.5vw;
+        margin-bottom: 20px;
+   }
+    .landingAddPage .ctabtn > div {
+        padding-right: 0;
+        border-right: 0px solid #000;
+        margin-right: 0px;
+   }
+    .landingAddPage .col_1_1 {
+        margin: 0px auto 20px auto;
+   }
+    .landingAddPage .col_1_1 .col:nth-child(1) .startingPrice > div:first-child {
+        padding-right:20px;
+        margin-right:10px;
+   }
+    .customerReview {
+        margin-top: 30px;
+        margin-bottom: 0px
+   }
+   /* .landingAddPage h4 {
+        font-size: 6vw;
+        line-height: 7.5vw;
+   }
+    */
+    .landingAddPage .PageWrapper {
+        margin-top: 120px;
+   }
+    .landingAddPage a.logo {
+        margin-top: 10px;
+   }
+   /* .landingAddPage h1 {
+        font-size: 6.5vw;
+        line-height: 8vw;
+   }
+    */
+    .customerReview h3 {
+       font-size: 14px;
+        padding: 5px;
+   }
+    .campaignProduct > div {
+        width: 50%;
+   }
+    .CampaignSection h1 {
+        font-size: 24px;
+        line-height: 30px;
+   }
+    .CampaignSection h2 {
+        font-size: 16px;
+        line-height: 22px;
+   }
+    .amcpage section.TextImageRow:first-of-type {
+        margin-top: 135px;
+   }
+    .landingBanner .container > div > svg , .landingBanner .landingstatistic{
+        width: 100%;
+        padding: 0px;
+   }
+    .landingBanner .startingPrice div span:nth-child(3) {
+        font-size: 11px;
+   }
+    .HeroBanner {
+        margin-top: 140px;
+        padding: 30px 20px;
+   }
+    .HeroBanner .HeroImage {
+        width: 100%;
+       /* top: 2vw;
+        */
+   }
+    .HeroBanner .HeroText h1, .landingAddPage h1, .h1 {
+        font-size: 22px;
+        line-height: 26px;
+   }
+    .HeroBanner .HeroText h3, .landingAddPage h4 {
+        font-size: 18px;
+        line-height: 22px;
+   }
+    .HeroBanner .HeroText {
+        font-size: 15px;
+        line-height: 19px;
+   }
+    .HeroBanner .startingPrice div div, .HeroBanner .startingPrice div span:nth-child(3) {
+        display: block;
+   }
+    .HeroBanner .startingPrice div span:nth-child(2) {
+        font-size: 9.5vw;
+        line-height: 11.5vw;
+   }
+    .HeroBanner .HeroText {
+        width: 100%;
+        padding-right: 0px;
+   }
+    .HeroBanner .startingPrice {
+        margin-top: 10px;
+   }
+    .landingBanner {
+        margin-top: 130px;
+   }
+    .landingBanner .startingPrice div span:nth-child(2) {
+        font-size: 34px;
+        line-height: 46px;
+   }
+    .landingBanner .startingPrice > div:nth-child(2) {
+        padding-left: 10px;
+   }
+    .ctrWrapper .titleWrap h2,.OffersWrapper .offercontent h2 {
+        font-size: 5vw;
+        line-height: 6vw;
+   }
+    .ctrWrapper .centerBlock > .col .Blockwrapper .staticsBlock {
+        width: 47%;
+   }
+    .ctrWrapper .centerBlock > .col:nth-child(2) {
+        padding: 0px 10px;
+   }
+    .landingProduct .col_1_1_1 .col h4 {
+        font-size: 12px;
+        line-height: 15px;
+        padding: 5px 8px 5px 8px;
+   }
+    .landingProduct .col_1_1_1 .col p {
+        padding-bottom: 10px;
+        font-size: 14px;
+        line-height: 18px;
+   }
+    .talkto {
+        padding: 10px 10px;
+   }
+    .talkto .callaction {
+        font-size: 4vw;
+        line-height: 4.55vw;
+        white-space: nowrap;
+        padding: 10px 5px;
+   }
+    .talkto h6 {
+        font-size: 11px;
+        line-height: 13px;
+   }
+    #statistics h2 img{
+        width: 20px !important
+   }
+    .ourServices a {
+        font-size: 2.9vw;
+        line-height: 3.5vw;
+        margin-right: 10px;
+   }
+    .ourServices {
+        margin-top: 20px;
+   }
+    .ctaNumber {
+        font-size: 24px;
+        line-height: 28px;
+   }
+    .amcpage .TextImageRow .BannerText .highlighttxt {
+        font-size: 14px;
+        line-height: 18px;
+   }
+    .linedevide {
+        height: 24px;
+        margin: 0px 14px;
+   }
+    .PageIntro h3 {
+        font-size: 20px;
+        line-height: 26px;
+   }
+    .contactpage .col_1_1 .col:nth-child(2) a {
+        font-size: 15px;
+   }
+    .contactpage .col_1_1 .col:nth-child(1) h2, .carrerHighlight .LeftText h2 {
+        font-size: 30px;
+        line-height: 36px;
+   }
+    .carrerHighlight .LeftText, .carrerHighlight .RightText {
+        width: 100%;
+        padding-left: 0px;
+   }
+    .JobList .jobPost {
+        width: 100%;
+   }
+    .JobList .jobPost {
+        padding: 10px 0px;
+   }
+    .contactpage h1, .contactpage h3, .contactpage h5 {
+        padding-left: 0px;
+   }
+    .shopAddress::before {
+        left: 0px;
+   }
+    .shopAddress .commanbtn{
+        padding: 5px 10px !important;
+        margin: 0px 2px 0px 2px !important;
+        font-size: 15px;
+   }
+    .contactpage h3 + p{
+       padding-left: 0px !important
+   }
+    #bannerholder.services {
+        margin-bottom: 45px !important;
+   }
+    #bannerholder {
+        margin: 140px auto 0px auto !important;
+   }
+    .bookVisitpage #FixedPageWrapper {
+        margin-top: 145px;
+   }
+    .bookpage #FixedPageWrapper {
+        margin-top: 150px;
+   }
+    .bookpage .LeftSideContent h1 {
+        font-size: 18px;
+        line-height: 22px;
+   }
+    .fs-title {
+        margin-bottom: 0px;
+   }
+    .LeftSideContent {
+       padding-top: 20px !important
+   }
+    .bookVisitpage .LeftSideContent {
+       padding-top: 10px !important
+   }
+    .bookFormWrapper .deviceProblem [type="radio"]:checked + label, .bookFormWrapper .deviceProblem [type="radio"]:not(:checked) + label {
+        padding: 5px;
+        font-size: 13px;
+        line-height: 16px;
+        text-align: left;
+   }
+    .LeftSideContent .BookLandingWrapper {
+        margin-bottom: 0px;
+   }
+    #statistics {
+        font-size: 16px;
+        line-height: 22px;
+        text-align: left;
+   }
+    .callaction {
+        font-size: 15px;
+        line-height: 20px;
+        padding: 10px 15px;
+   }
+    .BookLandingWrapper > div > div h3 {
+        font-size: 24px;
+        line-height: 26px;
+   }
+    .bookVisitpage .HeroBanner {
+        padding-top: 20px;
+   }
+    .bookVisitpage .right-sidebar {
+       padding-top: 0px;
+   }
+    .PromotionalOffer h2 {
+        font-size: 5vw;
+        line-height: 5.5vw;
+        padding-bottom: 5px;
+   }
+    .PromotionalOffer {
+        font-size: 12px;
+        line-height: 16px;
+   }
+    .exclusiveDeal h4 {
+        font-size: 3vw;
+        line-height: 3.5vw;
+   }
+    .exclusiveDeal {
+        padding: 10px 10px 10px 10px !important;
+   }
+    .offerSlide .offerTextBlock .price-wrap {
+        padding: 0px !important;
+        font-size: 14px;
+   }
+    .offerStaticsWrap > img {
+        width: 90%;
+        margin: 0 auto 30px auto;
+   }
+    #statistics div.Blockwrapper {
+        width: 100%;
+   }
+    .staticsBlock span {
+        font-size: 7vw;
+        line-height: 9.5vw;
+   }
+    .IntroText h1, h2 {
+        font-size: 22px;
+        line-height: 28px;
+   }
+    .offerList .col_1_1_1 {
+        width: 100%;
+   }
+    .CommanBanner h3 {
+        font-size: 17px;
+        line-height: 24px;
+   }
+    #landingbannerholder .bannerCaptionHolder {
+        padding: 20px 0px 30px 0px;
+   }
+    ul.testingList {
+        margin: 0px;
+        column-count: 1;
+        column-gap: 0px;
+   }
+    .staticsBlock {
+        font-size: 16px;
+        line-height: 20px;
+        padding-top: 10px;
+   }
+    .call-detail {
+        margin-left: 25px;
+   }
+    .Disclaimer {
+        background-color: #000;
+        padding: 5px 5px 5px 5px;
+        font-size: 12px;
+   }
+    .assPcbanner .bannerText h2, .assPcbanner .bannerText p {
+        text-align: left;
+   }
+    .highlightQuestion span {
+        font-size: 20px;
+        line-height: 25px;
+   }
+    .highlightQuestion::before {
+        top: 15px;
+   }
+    .bannerCaption .rightinfo {
+        width: 90%;
+        max-width: 100%;
+   }
+    h1 {
+        font-size: 22px
+   }
+    .logo {
+        margin: 0px
+   }
+    .header-right {
+        width: 100%;
+        padding: 0px;
+        text-align: left
+   }
+    .FreeAds::before {
+        margin-top: -90px;
+        width: 110px;
+        height: 110px;
+        left: -40px;
+   }
+    .FreeAds h2 {
+        font-size: 19px;
+        line-height: 22px;
+   }
+    .CTABtn {
+        font-size: 16px;
+        line-height: 20px;
+        margin: 10px 0px 0px 0px;
+   }
+    .FreeAds > div{
+        display: block;
+        text-align: center;
+   }
+    .serviceholder a {
+        font-size: 13px
+   }
+    .promiseblock img {
+        max-height: 130px
+   }
+    .btn {
+        display: inline-block;
+        padding: 10px 0px
+   }
+    .termscondition {
+        margin: 130px auto 0px auto
+   }
+    .bannerText {
+        width: 53%
+   }
+    .home .bannerText {
+        width: 53%
+   }
+    .home .bannerText h2 {
+        margin-bottom: 0px;
+   }
+    .home .bannerplaceholder {
+        height: 180px
+   }
+    .home .bannerInnerText div {
+        text-align: right;
+   }
+    .home .bannerInnerText .greenhighlight {
+        margin-top: 10px;
+        font-size: 14px;
+        line-height: 20px;
+        padding: 5px 5px;
+   }
+    .divider {
+        width: 1px;
+        height: 40px;
+        margin: 0px 5px 0px 5px;
+   }
+    .bannerplaceholder {
+        height: 135px
+   }
+    .bannerText h2 {
+        padding-bottom: 10px;
+        text-align: right;
+        font-size: 20px
+   }
+    .bannerText.abouttext {
+        top: 10%
+   }
+    .bannerText h3 {
+        text-align: right
+   }
+    .bannerText p {
+        font-size: 14px;
+        text-align: right
+   }
+    .bannerText.abouttext p, .bannerText.abouttext h2 {
+        text-align: left
+   }
+    #bannerholder {
+        margin: 140px auto 0px auto !important
+   }
+    #bannerholder.home .banner {
+        margin-bottom: 0px !important;
+   }
+    #landingbannerholder {
+        margin: 130px auto 0px auto !important
+   }
+    .contentpadding {
+        margin: 130px auto 0px auto !important
+   }
+    .book-btn, .registerbtn, .servicebtn {
+        font-size: 14px
+   }
+    .copyright {
+        width: 93%
+   }
+    .promise-heading {
+        background-size: auto 70px;
+        height: auto;
+        padding-right: 80px
+   }
+    .promise-heading h2 {
+        font-size: 24px
+   }
+    .feature_promo .commanbtn {
+        font-size: 15px;
+   }
+    .centeralign span {
+        display: block;
+        clear: both
+   }
+    .ratioBlock_padding h3 {
+        text-align: center;
+        font-size: 18px;
+        line-height: 28px;
+   }
+    .ratioBlock_padding h2 {
+        text-align: center;
+        font-size: 28px;
+        line-height: 36px;
+   }
+    .ratioBlock_padding {
+        padding: 10px 5px;
+   }
+    .ratioBlockImage {
+        margin: 0px 5px 0px 0px;
+   }
+    .planBlock {
+        width: 100%;
+   }
+    .AMCPlanWrap .col_1_1_1_1 {
+        display: block;
+   }
+    .PageIntro .col_1_1_1 .col, .shopAddress .col {
+        width: 100%;
+   }
+    .shopAddress .col {
+        padding: 10px 0px;
+   }
+    .shopAddress {
+        padding-top: 15px;
+        margin-bottom: 15px;
+   }
+    .offerContent {
+        padding-top: 13%;
+        width: 65%;
+   }
+    .textoffer {
+        display: block;
+   }
+    .ContactBlock .col img{
+        max-width: 50px;
+   }
+    .textoffer > div:nth-child(2), .textoffer > div:last-child {
+        font-size: 14px;
+        line-height: 18px;
+        padding-top: 0px;
+   }
+    .offerContent > span {
+        padding-left: 0px;
+   }
+    .textoffer > div:first-child {
+        font-size: 40px;
+        line-height: 45px;
+   }
+    .textoffer > div:first-child, .textoffer > div:nth-child(2) {
+        width: 100%;
+   }
+    .ContactBlock .col > div p {
+        font-size: 18px;
+   }
+    .ContactBlock .col {
+        font-size: 20px;
+   }
+    .computerImage > div {
+        display: block;
+   }
+    .offerLeft h2 {
+        padding: 20px 10px 5px 15px;
+   }
+    .offercontent ul li{
+        padding: 1px 0px;
+   }
+    .serviceCenter::after {
+        left: 0px;
+        width: calc(100% - 10px)
+   }
+    .btnwrap .commanbtn.orange {
+        padding: 5px;
+   }
+    .contactpage .btnwrap {
+        padding-left: 0px;
+   }
+    .redtext {
+        display: block;
+   }
+       .features-list-box{
+           flex-flow: row wrap;
+       }
+
+.hero-content-box ul.tick li, .features-list-col{
+   width: 100%;
+}
+
+}
+@media only screen and (min-width: 0px) and (max-width: 460px) {
+    #WAButton {
+        display: block;
+        margin-bottom: 80px;
+   }
+    .serviceLeft img{
+        display: block;
+        clear: both;
+        float: none;
+        margin: 0px 0px 20px 0px!important
+   }
+    .Assurebox > div > div {
+        width: 100%;
+        border-right: 5px solid #fff;
+        border-left: 5px solid #fff;
+   }
+}
+@media screen and (min-width: 0px) and (max-width: 450px) {
+    .productnamePrice{
+        display: block;
+   }
+    .productnamePrice > div:first-child, .productnamePrice > div:last-child, .productnamePrice > div:last-child > div {
+       width: 100%;
+        padding-left: 0px;
+   }
+    .bookVisitpage .welcome-bottom.landing {
+       padding: 0px !important;
+   }
+    .bookVisitpage .welcome-bottom.landing .promiseText h2 {
+        font-size: 3.8vw !important;
+        line-height: 22px !important;
+        margin-bottom: 15px !important;
+   }
+    .bookVisitpage .welcome-bottom.landing .promiseText p {
+        padding: 0px 15px 15px 15px !important;
+        font-size: 16px;
+        line-height: 22px;
+   }
+    .bookVisitpage .welcome-bottom.landing .promiseText {
+        margin: 0px !important;
+   }
+}
+@media screen and (min-width: 0px) and (max-width: 450px) {
+    .offerHighlight > div{
+        padding: 10px;
+   }
+    .offerHighlight > div > div:nth-child(2) > div::after, .offerHighlight > div > div:nth-child(2) > div::before {
+        width: 30px;
+        height: 30px;
+   }
+    .offerHighlight > div > div:nth-child(1) > div {
+        width: calc(100% - 40px);
+   }
+    .offerHighlight > div > div:nth-child(1) img{
+       width: 40px;
+   }
+    .offerHighlight p{
+       padding: 0px;
+   }
+    .offerHighlight > div > div:nth-child(2) > div::after {
+       margin-right: -10px;
+   }
+    .offerHighlight > div > div:nth-child(2) > div::before {
+       margin-left: -10px;
+   }
+    .offerHighlight > div > div:nth-child(1){
+       /* width: 100%;
+        */
+       padding-top: 0px;
+        padding-right: 0px;
+   }
+    .offerHighlight > div > div:nth-child(2) {
+       /* width: 75%;
+        */
+       /* margin: 0 auto;
+        */
+   }
+    .offerHighlight > div > div:nth-child(1) h4 {
+        font-size: 3.4vw;
+        line-height: 5vw;
+   }
+    .offerHighlight > div > div:nth-child(2) > div {
+        font-size: 3vw;
+        line-height: 3.5vw;
+   }
+    .offerHighlight > div > div:nth-child(2) > div b {
+        font-size: 4vw;
+        line-height: 4.5vw;
+   }
+}
+@media only screen and (min-width: 0px) and (max-width: 440px) {
+    .ImageTextRow .textBlock > div{
+        padding-left: 26%;
+   }
+    #bannerholder .banner {
+        min-height:300px;
+   }
+    #bannerholder.services .banner {
+        min-height: 250px;
+   }
+    .offerSlide .offerTextBlock .specification p{
+       display: block;
+   }
+    .offerSlide .offerTextBlock .specification strong{
+       width: 100%;
+   }
+    .serviceholder a {
+        font-size: 16px;
+        line-height: 24px;
+   }
+    #bannerholder.home .serviceholder {
+        top: 7px;
+   }
+    #bannerholder.home {
+        margin-bottom: 10px !important;
+   }
+    .offerSlide .offerTextBlock .specification span {
+        display: block;
+   }
+    #statistics h2 {
+        font-size:19px;
+        line-height: 24px;
+   }
+    .contactpage h5 {
+        padding: 0px 0px 20px 0px;
+   }
+    .col_1_1_1_1_1 .col h2 {
+        font-size: 15px;
+        line-height: 18px;
+   }
+    .col_1_1_1_1_1 {
+        margin-bottom: 30px;
+   }
+    #content-wrapper .col_1_1_1_1_1 {
+        margin-bottom: 10px;
+   }
+    #statistics h2 {
+        padding-top: 0px;
+   }
+    .serviceholder a {
+        display: block;
+        width: 100%;
+        text-align: left;
+        padding: 7px
+   }
+    .serviceswrapper h3 {
+        font-size: 22px
+   }
+    .bannerplaceholder {
+        height: 125px
+   }
+    #bannerholder.home .banner {
+        background-position: right top
+   }
+    #bannerholder.assPcbanner {
+        background-position: center;
+        background-size: cover;
+   }
+    .assPcbanner .bannerText p {
+        font-size: 16px;
+        line-height: 20px;
+   }
+    .assPcbanner .bannerText h2 {
+        font-size: 32px;
+        line-height: 36px;
+        padding: 10px 0px;
+   }
+    .bannerText {
+        height: auto;
+   }
+    .home .bannerText {
+        height: auto;
+       /* top: 10vw;
+        */
+   }
+    .bannerText h2 {
+        font-size: 15px;
+        line-height: 19px
+   }
+    #bannerholder.home .bannerText h2 {
+        font-size: 18px;
+        line-height: 22px;
+        margin-bottom: 1vw;
+   }
+    .home .bannerplaceholder {
+        height: 160px;
+   }
+    .bannerText h3, .home .bannerText h3 {
+        font-size: 17px
+   }
+    .serviceswrapper ul li {
+        width: 100%;
+        margin-bottom: 15px;
+        display: inline-block;
+        float: left;
+        vertical-align: top
+   }
+    .copyright {
+        width: 95%
+   }
+    .spec-block {
+        width: 100%;
+        margin-bottom: 20px
+   }
+}
+@media only screen and (min-width: 0px) and (max-width: 420px) {
+    .landingAddPage .col_1_1 .col:nth-child(1) .startingPrice {
+       /* display: block;
+        */
+        align-items: center;
+       margin-bottom: 10px;
+   }
+    .landingAddPage .col_1_1 .col:nth-child(1) .startingPrice > div:first-child {
+        padding-right: 10px;
+        font-size: 20px;
+        line-height: 25px;
+   }
+    .landingAddPage .col_1_1 .col:nth-child(1) .startingPrice > div:first-child{
+        margin-bottom: 10px;
+   }
+    .HeroBanner .startingPrice > div:nth-child(1){
+       min-width: 25% !important;
+   }
+    .landingProduct .col_1_1_1_1 .col{
+        width: 100%;
+   }
+    .contactpage .col_1_1 .col:nth-child(2) div {
+        width: 100%;
+        padding: 7px 0px;
+   }
+    .offerList .col_1_1_1 .col {
+        width: 100%;
+   }
+    .offerSlide .imageBlock::before {
+        content: '';
+        display: block;
+        padding-top: 50%
+   }
+    .offerSlide .imageBlock img{
+        position: absolute;
+        z-index: -1;
+        top: 0px;
+        left: 0px;
+   }
+}
+@media only screen and (min-width: 0px) and (max-width: 414px) {
+    .service-row {
+        display: block;
+   }
+    .serviceblock {
+        width: 100%
+   }
+    .serviceholder {
+        top: 35px
+   }
+    .responsive-promise-icon {
+        max-width: 50%;
+        float: none
+   }
+    .offertext, .promiseblock, .lowprice, .promiseText {
+        display: inline-block;
+        vertical-align: middle;
+        width: 100%;
+        text-align: center
+   }
+    .bannerText, .home .bannerText {
+        width: 63%
+   }
+    #bannerholder img {
+        max-width: 40%;
+   }
+    #bannerholder .bannerText {
+        width: 60%;
+   }
+    #bannerholder.assPcbanner .bannerText {
+        width: 100%;
+   }
+    .formwrapper {
+        padding: 20px 10px
+   }
+    .bannerplaceholder {
+        height: 115px
+   }
+    .bannerText p, .home .bannerText p {
+        font-size: 12px;
+        line-height: 16px
+   }
+    .bannerText h3, .home .bannerText h3 {
+        font-size: 16px;
+        line-height: 20px
+   }
+    .bannerText h2 span {
+        font-size: 16px
+   }
+}
+@media only screen and (min-width: 0px) and (max-width: 380px) {
+    .offertext, .spacer, .promiseblock {
+        width: 100%;
+        clear: both;
+        display: block;
+        text-align: center
+   }
+    .serviceholder {
+        top: 25px
+   }
+    .home .serviceholder {
+        top: 35px
+   }
+    .offertext img, .lowprice img {
+        max-height: 140px
+   }
+    .how-works ul {
+        display: block;
+   }
+    .how-works ul li {
+        width: 100%;
+        margin-bottom: 15px;
+        display: inline-block;
+        float: left;
+        vertical-align: top
+   }
+}
+@media only screen and (min-width:0px) and (max-width:376px) {
+    .landingAddPage .ctabtn a {
+        display: inline-block;
+        margin-left: 0px;
+        margin-top: 10px;
+   }
+}
+@media only screen and (min-width: 0px) and (max-width: 360px) {
+    .book-btn {
+        width: 100%
+   }
+    .bannerplaceholder {
+        height: 103px
+   }
+    .copyright {
+        width: 95%
+   }
+    .feature_promo {
+        margin-top: 30px;
+   }
+    .customePromise {
+        display: block;
+        margin: 10px auto 0 auto;
+   }
+    .promo_right {
+        text-align: center;
+   }
+    .col_1_1_1_1 .col {
+        width: 100%;
+   }
+}
+@media only screen and (min-width: 0px) and (max-width: 359px) {
+    .offerLeft > div > div {
+        display: block;
+   }
+    .offercontent {
+        width: 100%;
+   }
+    .offerImage {
+        width: 100%;
+        text-align: center;
+        padding-top: 20px;
+        border-left: 0px solid #fff;
+   }
+}
